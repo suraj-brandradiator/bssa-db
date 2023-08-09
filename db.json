@@ -64,5 +64,178 @@
         "paragraph":"बिहार सरकार द्वारा राज्य में खेल और खिलाड़ियों के सर्वांगीण विकास के लिए कुछ खेलों को अपनी प्राथमिकता वाले खेल की सूची में रखा गया  है। सरकार के साथ साथ इन खेलों के विकास के लिए वित्तीय सहयोग की जिम्मेदारी सरकार के विभिन्न निगमों और उद्यमों को भी सौंपी गई है जिससे इन खेलों का आयोजन और संचालन और बेहतर हो सके ।",
         "image":"https://t4.ftcdn.net/jpg/02/24/86/95/360_F_224869519_aRaeLneqALfPNBzg0xxMZXghtvBXkfIA.jpg"
     }
+    ], 
+    "services" : [
+        {
+            "id" : 1, 
+            "title": "हॉस्टल, स्टेडियम और खेल मैदान",
+            "description": "हॉस्टल, स्टेडियम और खेल मैदान बुक करने की सुविधा",
+            "photo" : "https://bssadev.brandradiator.in/img/sponsor-svg.svg"
+        },
+        {
+           
+            "id" : 2, 
+            "title": "आधारभूत संरचना",
+            "description": "  खेल संबंधित आधारभूत संरचना",
+            "photo" : "https://bssadev.brandradiator.in/img/sponsor-svg.svg"
+        },
+        {
+            "id" : 3, 
+            "title": "खेल",
+            "description": "खेल संबंधित सेवाएं",
+            "photo" : "https://bssadev.brandradiator.in/img/sponsor-svg.svg"
+        },
+        {
+            "id" : 4, 
+            "title": "लॉगिन",
+            "description": "लॉगिन",
+            "photo" : "https://bssadev.brandradiator.in/img/sponsor-svg.svg"
+        },
+        {
+            "id" : 5, 
+            "title": "ऑनलाइन शिकायत",
+            "description": "ऑनलाइन शिकायत/ सुझाव",
+            "photo" : "https://bssadev.brandradiator.in/img/sponsor-svg.svg"
+        },
+        {
+            "id" : 6, 
+            "title": "खेल विकास नीति",
+            "description": "खेल विकास नीति",
+            "photo" : "https://bssadev.brandradiator.in/img/sponsor-svg.svg"
+        },
+        {
+            "id" : 7, 
+            "title": "प्रशिक्षण",
+            "description": "प्रशिक्षण एवम् कार्यशाला",
+            "photo" : "https://bssadev.brandradiator.in/img/sponsor-svg.svg"
+        },
+        {
+            "id" : 8, 
+            "title": "योजनाएं",
+            "description": "योजनाएं",
+            "photo" : "https://bssadev.brandradiator.in/img/sponsor-svg.svg"
+        },
+        {
+            "id" : 9, 
+            "title": " खेल आयोजन की सूची",
+            "description": " खेल आयोजन की वार्षिक सूची",
+            "photo" : "https://bssadev.brandradiator.in/img/sponsor-svg.svg"
+        },
+        {
+            "id" : 10, 
+            "title": "खेल प्रायोजक संस्थाएं",
+            "description": "खेल और संबंधित प्रायोजक संस्थाएं",
+            "photo" : "https://bssadev.brandradiator.in/img/sponsor-svg.svg"
+        }
+
+    ],
+
+    "sponsors" : [
+
+     {
+    "id" : 1,
+    "title": "Olympic",
+    "photo" :"https://sportsauthorityofindia.nic.in/sai/assets/frontend/images/clients/brand2.png",
+    "url" : "https://olympics.com/ioc"
+     },
+
+
+     {
+        "id" : 2,
+        "title": "The Ministry of Youth Affairs & Sports",
+        "photo" :"https://sportsauthorityofindia.nic.in/sai/assets/frontend/images/clients/brand3.png",
+        "url" : "https://yas.nic.in/"
+         },
+         
+
+         
+     {
+        "id" : 3,
+        "title": "Tokyo-2020",
+        "photo" :"https://sportsauthorityofindia.nic.in/sai/assets/frontend/images/clients/brand1.png",
+        "url" : "https://olympics.com/en/olympic-games/tokyo-2020"
+         },
+
+
+              
+     {
+        "id" : 4,
+        "title": "World anti doping agency",
+        "photo" :"https://sportsauthorityofindia.nic.in/sai/assets/frontend/images/clients/brand4.png",
+        "url" : "https://www.wada-ama.org/en"
+         },
+         
+   
+     {
+        "id" : 5,
+        "title": "Khelo India",
+        "photo" :"https://sportsauthorityofindia.nic.in/sai/assets/frontend/images/clients/brand5.png",
+        "url" : "https://kheloindia.gov.in/"
+         }
+
+
+    ],
+
+    "gallery":[
+        {
+            "key":"I1",
+            "eventName":"bssa",
+            "img":"img/gallery/gallery-1.jpg"
+        },
+        {
+            "key":"I2",
+            "eventName":"bssa",
+            "img":"img/gallery/gallery-new-img-1.jpg"
+        },   {
+            "key":"I3",
+            "eventName":"bssa",
+            "img":"img/gallery/gallery-new-img-2.jpg"
+        },   {
+            "key":"I4",
+            "eventName":"bssa",
+            "img":"img/gallery/gallery-new-img-3.jpg"
+        },
+        {
+            "key":"I5",
+            "eventName":"bssa",
+            "img":"img/gallery/gallery-new-img-4.jpg"
+        },
+        {
+            "key":"I6",
+            "eventName":"bssa",
+            "img":"img/gallery/gallery-new-img-5.jpg"
+        },
+        {
+            "key":"I7",
+            "eventName":"bssa",
+            "img":"img/gallery/gallery-new-img-6.jpg"
+        }
+    ],
+    "videos":[
+        {
+            "key":"I6",
+            "eventName":"bssa",
+            "video":"img/gallery/gallery-new-img-5.jpg"
+        },
+        {
+            "key":"I6",
+            "eventName":"bssa",
+            "video":"img/gallery/gallery-new-img-5.jpg"
+        },
+        {
+            "key":"I6",
+            "eventName":"bssa",
+            "video":"img/gallery/gallery-new-img-5.jpg"
+        },
+        {
+            "key":"I6",
+            "eventName":"bssa",
+            "video":"img/gallery/gallery-new-img-5.jpg"
+        }
     ]
+
+
+
+
+
 }
