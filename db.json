@@ -425,9 +425,9 @@
       },
       {
         "key": "N4",
-        "name": "बिहार बालक वर्ग",
-        "achievement":"25वीं सब जूनियर सेपक टाकरा राष्ट्रीय प्रतियोगिता में बिहार बालक वर्ग सेपक टाकरा की टीम ने सब जूनियर नेशनल चैंपियन का खिताब जीता।",
-        "image": "img/internationalAchievement/"
+        "name": "बिहार बालक/बालिका वर्ग",
+        "achievement":"26वीं सब जूनियर सेपक टाकरा राष्ट्रीय प्रतियोगिता में बिहार बालक वर्ग सेपक टाकरा की टीम ने सब जूनियर नेशनल चैंपियन का खिताब जीता।",
+        "image": "img/internationalAchievement/sepekpakrw.jpeg"
 
       },
       {
@@ -781,6 +781,99 @@
         "eventName": "2nd Javelin Day 2023",
         "image": "img/2ndJavelinDay2023_2.jpeg"
       }
+
+    ],
+
+    "statelevelachievement":[
+      {
+        "key": "sl1",
+        "eventName": "daksh",
+        "image": "img/daksh11.jpeg"
+      },
+      {
+        "key": "sl2",
+        "eventName": "daksh",
+        "image": "img/daksh12.jpeg"
+      },
+      {
+        "key": "sl3",
+        "eventName": "Tarang",
+        "image": "img/Tarang11.jpeg"
+      },
+      {
+        "key": "sl4",
+        "eventName": "Tarang",
+        "image": "img/Tarang12.jpeg"
+      },
+      {
+        "key": "sl5",
+        "eventName": "Tarang",
+        "image": "img/Tarang13.jpeg"
+      },
+      {
+        "key": "sl6",
+        "eventName": "Lakshya",
+        "image": "img/Lakshya11.jpeg"
+      },
+      {
+        "key": "sl7",
+        "eventName": "Lakshya",
+        "image": "img/Lakshya12.jpeg"
+      },
+      {
+        "key": "sl8",
+        "eventName": "Lakshya",
+        "image": "img/Lakshya13.jpeg"
+      }
+    ],
+
+    "tenders":[
+      {
+        "key": "T1",
+        "eventName": "tenders",
+        "date":"21/08/2023",
+        "expiryDate":"11/09/2023",
+        "name":"RFP for Selection of catering agency for Patliputra sports complex hostel, Patna for 05 years",
+        "corrigendum":"",
+        "url": "img/tenders/RFP for Selection of catering agency for Patliputra sports complex hostel, Patna for 05 years.pdf"
+      },
+      {
+        "key": "T2",
+        "eventName": "tenders",
+        "date":"24/07/2023",
+        "expiryDate":"24/07/2026",
+        "name":"Letter No. 1003 Dated 24.07.2023 (4).pdf",
+        "corrigendum":"",
+        "url": "img/tenders/Letter No. 1003 Dated 24.07.2023 (4).pdf"
+      },
+      {
+        "key": "T3",
+        "eventName": "tenders",
+        "date":"24/07/2023",
+        "expiryDate":"24/07/2026",
+        "name":"RFP COMPREHENSIVE HOUSEKEEPING, MAINTENANCE AND OPERATION CONTRACT (FOR 03 YEARS) FOR STADIUMS, OFFICES, HOSTELS AND OTHER ALLIED FACILITIES AT BIHAR STATE SPORTS AUTHORITY",
+        "corrigendum":"",
+        "url": "img/tenders/133343212303759748.pdf"
+      },
+      {
+        "key": "T4",
+        "eventName": "tenders",
+        "date":"23/06/2023",
+        "expiryDate":"23/06/2025",
+        "name":"Corrigendum :(Pre- bid- quarries) RFP for design, development, testing, commissioning, integration and maintenance of website at Bihar State Sports Authority (BSSA) for a period of 2 years",
+        "corrigendum":"",
+        "url": "img/tenders/TENDER.pdf"
+      },
+      {
+        "key": "T5",
+        "eventName": "tenders",
+        "date":"23/06/2023",
+        "expiryDate":"23/06/2025",
+        "name":"Corrigendum :(Pre- bid- quarries) RFP for design, development, testing, commissioning, integration and maintenance of website at Bihar State Sports Authority (BSSA) for a period of 2 years  CamScanner 06-23-2023 13.31.09.pdf",
+        "corrigendum":"",
+        "url": "img/tenders/CamScanner 06-23-2023 13.31.09.pdf"
+      }
+
 
     ]
 
