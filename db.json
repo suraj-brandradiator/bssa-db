@@ -877,6 +877,19 @@
 
 
     "highlight":[
+
+      {
+        "key": "T7",
+        "eventName": "Bihar Vollyball Premier League",
+        "description":"21/08/2023",
+        "expiryDate":"11/09/2023",
+        "name":"RFP for Selection of catering agency for Patliputra sports complex hostel, Patna for 05 years",
+        "corrigendum":"",
+        "ImageUrl": "img/vollyball_league.jpeg",
+        "url": "img/vollyball_league.jpeg"
+
+      },
+      
       {
         "key": "T1",
         "eventName": "Sandeep Kumar Secratory",
@@ -886,6 +899,17 @@
         "corrigendum":"",
         "ImageUrl": "img/sandeep_kumar_parasports_association.jpeg",
         "url": "img/sandeep_kumar_parasports_association.jpeg"
+
+      },
+      {
+        "key": "T8",
+        "eventName": "Balika Kusti team",
+        "description":"21/08/2023",
+        "expiryDate":"11/09/2023",
+        "name":"RFP for Selection of catering agency for Patliputra sports complex hostel, Patna for 05 years",
+        "corrigendum":"",
+        "ImageUrl": "img/bihar_kusti_team.jpeg",
+        "url": "img/bihar_kusti_team.jpeg"
 
       },
     
