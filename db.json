@@ -879,15 +879,16 @@
     "highlight":[
       {
         "key": "T1",
-        "eventName": "highlightOne",
+        "eventName": "Sandeep Kumar Secratory",
         "description":"21/08/2023",
         "expiryDate":"11/09/2023",
         "name":"RFP for Selection of catering agency for Patliputra sports complex hostel, Patna for 05 years",
         "corrigendum":"",
-        "ImageUrl": "img/highlightOne.jpeg",
-        "url": "img/highlightOne.jpeg"
+        "ImageUrl": "img/sandeep_kumar_parasports_association.jpeg",
+        "url": "img/sandeep_kumar_parasports_association.jpeg"
 
       },
+    
       {
         "key": "T2",
         "eventName": "highlightTwo",
@@ -910,16 +911,27 @@
       },
       {
         "key": "T4",
-        "eventName": "highlightFour",
+        "eventName": "Badminton Pratibha Khoj",
         "description":"23/06/2023",
         "expiryDate":"23/06/2025",
         "name":"Corrigendum :(Pre- bid- quarries) RFP for design, development, testing, commissioning, integration and maintenance of website at Bihar State Sports Authority (BSSA) for a period of 2 years",
         "corrigendum":"",
-        "ImageUrl": "img/highlightFour.jpeg",
-        "url": "img/highlightOne.jpeg"
+        "ImageUrl": "img/badminton_pratibha_khoj.jpeg",
+        "url": "img/badminton_pratibha_khoj.jpeg"
       },
       {
         "key": "T5",
+        "eventName": "Wrestling Head Coach",
+        "description":"21/08/2023",
+        "expiryDate":"11/09/2023",
+        "name":"RFP for Selection of catering agency for Patliputra sports complex hostel, Patna for 05 years",
+        "corrigendum":"",
+        "ImageUrl": "img/Wrestling_head_coach_national.jpeg",
+        "url": "img/Wrestling_head_coach_national.jpeg"
+
+      },
+      {
+        "key": "T6",
         "eventName": "highlightFive",
         "description":"23/06/2023",
         "expiryDate":"23/06/2025",
