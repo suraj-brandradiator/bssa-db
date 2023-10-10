@@ -887,6 +887,28 @@
 
 
     "highlight":[
+         {
+        "key": "T9",
+        "eventName": "Junior boys national football",
+        "description":"21/08/2023",
+        "expiryDate":"11/09/2023",
+        "name":"RFP for Selection of catering agency for Patliputra sports complex hostel, Patna for 05 years",
+        "corrigendum":"",
+        "ImageUrl": "img/bihar-junior-boys-national-football.jpeg",
+        "url": "img/bihar-junior-boys-national-football.jpeg"
+
+      },
+         {
+        "key": "T8",
+        "eventName": "Lucky kumar in selected in india handball team",
+        "description":"21/08/2023",
+        "expiryDate":"11/09/2023",
+        "name":"Lucky Kumar selected in india Handball Team",
+        "corrigendum":"",
+        "ImageUrl": "img/lucky_kumar_india_handball_team.jpeg",
+        "url": "img/lucky_kumar_india_handball_team.jpeg"
+
+      },
 
       {
         "key": "T7",
