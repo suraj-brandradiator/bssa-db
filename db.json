@@ -300,6 +300,16 @@
 
 
     "videos": [
+         {
+        "key": "v8",
+        "eventName": "बिहार में हॉकी खिलाड़ियों के लिए सुनहरा अवसर।",
+        "video": "https://www.youtube.com/embed/JV_QvaClnPk"
+      },
+         {
+        "key": "v7",
+        "eventName": "जीत का जज्बा और हौसला सातवें आसमान पर",
+        "video": "https://www.youtube.com/embed/tA8XV8Vzgoo"
+      },
       {
         "key": "v1",
         "eventName": "बिहार के प्रशिक्षकों के लिए नौकरी का सुनहरा मौका!",
