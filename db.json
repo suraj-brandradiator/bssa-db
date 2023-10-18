@@ -893,6 +893,28 @@
 
     "highlight":[
             {
+        "key": "T12",
+        "eventName": "34th east zone atheletics championship",
+        "description":"18/10/2023",
+        "expiryDate":"",
+        "name":"34th east zone atheletics championship",
+        "corrigendum":"",
+        "ImageUrl": "img/sports-table-bssa.jpeg",
+        "url": "img/sports-table-bssa.jpeg"
+
+      },
+          {
+        "key": "T11",
+        "eventName": "World combact games",
+        "description":"18/10/2023",
+        "expiryDate":"",
+        "name":"Bhorik Singh Yadav",
+        "corrigendum":"",
+        "ImageUrl": "img/bhorik-singh-yadav.jpeg",
+        "url": "img/bhorik-singh-yadav.jpeg"
+
+      },
+            {
         "key": "T10",
         "eventName": "Sub junior boys football national championship",
         "description":"10/10/2023",
