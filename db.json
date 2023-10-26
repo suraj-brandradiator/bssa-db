@@ -893,6 +893,17 @@
 
     "highlight":[
             {
+        "key": "T13",
+        "eventName": "High Jump ",
+        "description":"25/10/2023",
+        "expiryDate":"",
+        "name":"High jump",
+        "corrigendum":"",
+        "ImageUrl": "img/Shailesh_kumar_high_jump_gold_medal.jpeg",
+        "url": "img/Shailesh_kumar_high_jump_gold_medal.jpeg"
+
+      },
+            {
         "key": "T12",
         "eventName": "34th east zone atheletics championship",
         "description":"18/10/2023",
