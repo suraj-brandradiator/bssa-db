@@ -892,16 +892,6 @@
 
 
     "highlight":[
-         {
-        "key": "T14",
-        "eventName": "37 national games",
-        "description":"37 national games athelets",
-        "expiryDate":"23/06/2025",
-        "name":"Vivek Prakash and Shreya Rani",
-        "corrigendum":"",
-        "ImageUrl": "img/vivek_prakash_shreya_rani_national_games.jpeg",
-        "url": "img/vivek_prakash_shreya_rani_national_games.jpeg"
-      }
             {
         "key": "T13",
         "eventName": "High Jump ",
@@ -1044,8 +1034,17 @@
         "ImageUrl": "img/Wrestling_head_coach_national.jpeg",
         "url": "img/Wrestling_head_coach_national.jpeg"
 
+      },
+      {
+        "key": "T6",
+        "eventName": "highlightFive",
+        "description":"23/06/2023",
+        "expiryDate":"23/06/2025",
+        "name":"Corrigendum :(Pre- bid- quarries) RFP for design, development, testing, commissioning, integration and maintenance of website at Bihar State Sports Authority (BSSA) for a period of 2 years  CamScanner 06-23-2023 13.31.09.pdf",
+        "corrigendum":"",
+        "ImageUrl": "img/highlightFive.jpeg",
+        "url": "img/highlightOne.jpeg"
       }
-     
     ],
 
     "sportlegecy":[
@@ -1113,7 +1112,5 @@
         "ImageUrl": "img/chandraPrashad.jpg",
         "url": "img/"
       }
-        
     ]
-    
   }
