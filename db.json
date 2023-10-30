@@ -1622,5 +1622,170 @@
       "ImageUrl": "",
       "url": ""
     }
-  ]
+  ],
+  "noticescirculars" :[
+    {
+      "id": 17,
+      "name": "सेपक टाकरा- मैच शेड्यूल",
+      "date": "",
+      "expiryDate": "",
+      "url": "img/notices/SEPAKTAKRAW_NGFIXTURES_&_SCHEDULE_VER.pdf"
+    },
+    {
+      "id": 16,
+      "name": "लॉन बॉल - मैच शेड्यूल",
+      "date": "",
+      "expiryDate": "",
+      "url": "img/notices/Match_Schedule.pdf"
+    },
+    {
+      "id": 15,
+      "name": "37 वें नेशनल गेम्स, गोवा 2023 के लिए टीमों का वर्गीकरण",
+      "date": "",
+      "expiryDate": "",
+      "url": "img/notices/Team_Grouping.pdf"
+    },
+    {
+      "id": 1,
+      "name": "37 वां नेशनल गेम्स 2023- खेल आयोजनों की तिथि",
+      "date": "",
+      "expiryDate": "",
+      "url": "img/notices/Sports-Schedule-National Games 2023-Goa.pdf"
+    },
+    {
+      "id": 2,
+      "name": "औपबंधिक मेधासूची से संबंधित दावा/आपत्ति का निराकरण प्रतिवेदन",
+      "date": "",
+      "expiryDate": "",
+      "url": "img/notices/Aupbandhik-Niyamavali-notice.pdf"
+    },
+    {
+      "id": 3,
+      "name": "सीधी नियुक्ति नियमावली के अन्तर्गत चयनित खिलाड़ियों के संदर्भ मे दावा/आपत्ति",
+      "date": "",
+      "expiryDate": "",
+      "url": "https://online.bih.nic.in/GADREC/(S(ncetcr12rl4ezt2gkg2dab3r))/Default.aspx"
+    },
+    {
+      "id": 4,
+      "name": "नेशनल स्कूल गेम्स 2023 (सेपक टाकरा) बिहार",
+      "date": "",
+      "expiryDate": "",
+      "url": "img/notices/SGFI-SEPAK-TAKRAW-NOTICE.pdf"
+    },
+    {
+      "id": 5,
+      "name": "नेशनल स्कूल गेम्स 2023 (फुटबॉल) बिहार",
+      "date": "",
+      "expiryDate": "",
+      "url": "img/notices/SGFI-FOOTBALL-NOTICE.pdf"
+    },
+    {
+      "id": 6,
+      "name": "नेशनल स्कूल गेम्स 2023 ( क्रिकेट) बिहार",
+      "date": "",
+      "expiryDate": "",
+      "url": "img/notices/SGFI-CRICKET-NOTICE.pdf"
+    },
+    {
+      "id": 7,
+      "name": "नेशनल स्कूल गेम्स 2023 ( एथेलेटिक्स) बिहार",
+      "date": "",
+      "expiryDate": "",
+      "url": "img/notices/SGFI-ATHLETICS-NOTICE.pdf"
+    },
+    {
+      "id": 8,
+      "name": "नेशनल स्कूल गेम्स 2023 (भारत्तोलन) बिहार",
+      "date": "",
+      "expiryDate": "",
+      "url": "img/notices/SGFI-WEIGHTLIFTING-NOTICE.pdf"
+    },
+    {
+      "id": 9,
+      "name": " 30 सितंबर और 01 अक्टूबर को हो रहा है बिहार के वॉलीबॉल खिलाड़ियों का चयन।",
+      "date": "",
+      "expiryDate": "",
+      "url": "img/notices/vollyballteam_selection_notice_bihar.pdf"
+    },
+    {
+      "id": 10,
+      "name": "बुनियादी स्तर पर प्रतिभा चयन के लिए जांच करने वाली संस्थाओं का चयन।",
+      "date": "",
+      "expiryDate": "",
+      "url": "img/notices/EOI.PDF"
+    },
+    {
+      "id": 11,
+      "name": "बहुद्देशीय खेल परिसर और हॉस्टल के निर्माण के डिजाइन के लिए आर्किटेक्ट की नियुक्ति।",
+      "date": "",
+      "expiryDate": "",
+      "url": "img/notices/BSSA-Notice-Architect-11.09.23.PDF"
+    },
+    {
+      "id": 12,
+      "name": "बिहार में 33 खेलो इंडिया केंद्रों के लिए प्रशिक्षकों की भर्ती",
+      "date": "",
+      "expiryDate": "",
+      "url": "#"
+    },
+    {
+      "id": 13,
+      "name": "राष्ट्रीय खेल संस्थान, पटियाला में प्रवेश के लिए पंजीकरण",
+      "date": "",
+      "expiryDate": "",
+      "url": "#"
+    },
+    {
+      "id": 14,
+      "name": "21 अगस्त से बिहार स्कूल ऑफ चेस के लिए नामांकन जारी।",
+      "date": "",
+      "expiryDate": "",
+      "url": "#"
+    }
+  ],
+"importantinformation":[
+  {
+    "id": 1,
+    "name": "सेपक टाकरा- मैच शेड्यूल",
+    "date": "",
+    "expiryDate": "",
+    "url": "img/notices/SEPAKTAKRAW_NGFIXTURES_&_SCHEDULE_VER.pdf"
+  },
+  {
+    "id": 2,
+    "name": "लॉन बॉल - मैच शेड्यूल",
+    "date": "",
+    "expiryDate": "",
+    "url": "img/notices/Match_Schedule.pdf"
+  },
+  {
+    "id": 3,
+    "name": "37 वें नेशनल गेम्स, गोवा 2023 के लिए टीमों का वर्गीकरण",
+    "date": "",
+    "expiryDate": "",
+    "url": "img/notices/Team_Grouping.pdf"
+  },
+  {
+    "id":4,
+    "name": "बिहार टीम 37वां नेशनल गेम्स",
+    "date": "",
+    "expiryDate": "",
+    "url": "img/BIHAR_OLYMPIC_ASSOCITION.pdf"
+  },
+  {
+    "id": 5,
+    "name": "तायक्वोंडो इवेंट 37वां नेशनल गेम्स",
+    "date": "",
+    "expiryDate": "",
+    "url": "img/TAEKWONDO_EVENTS_37EVENTS_GAMES.pdf"
+  },
+  {
+    "id": 6,
+    "name": "37वें राष्ट्रीय खेल - 2023 कार्यक्रम",
+    "date": "",
+    "expiryDate": "",
+    "url": "img/national_games_37_schedule.pdf"
+  }
+]
 }
