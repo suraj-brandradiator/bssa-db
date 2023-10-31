@@ -793,7 +793,27 @@
   ],
   "highlight": [
     {
-      "key": "T15",
+      "key": "T18",
+      "eventName": "37th National games",
+      "description": "25/10/2023",
+      "expiryDate": "",
+      "name": "High jump",
+      "corrigendum": "",
+      "ImageUrl": "img/bihar_Archary_Player.jpeg",
+      "url": "img/bihar_Archary_Player.jpeg"
+    },
+    {
+      "key": "T17",
+      "eventName": "37th National games",
+      "description": "25/10/2023",
+      "expiryDate": "",
+      "name": "High jump",
+      "corrigendum": "",
+      "ImageUrl": "img/Bihar_Archary.jpeg",
+      "url": "img/Bihar_Archary.jpeg"
+    },
+    {
+      "key": "T16",
       "eventName": "37th National games",
       "description": "25/10/2023",
       "expiryDate": "",
