@@ -1398,8 +1398,8 @@
     {
       "key": "NG19",
       "GamesName": "ताइक्वांडो",
-      "MalePerformance": "",
-      "FemalePerformance": "",
+      "MalePerformance": "  ",
+      "FemalePerformance": "(श्रेया रानी)",
       "MaleGamehealdAt": "31 अक्टूबर से,03 नवंबर 2023",
       "FemaleGameHeldAt": "31 अक्टूबर से,03 नवंबर 2023",
       "Malevenue": "पोंडा बहुउद्देशीय इंडोर स्टेडियम, पोंडा",
@@ -1407,7 +1407,7 @@
       "genderOne": "महिला",
       "genderTwo": "पुरुष",
       "maleMedal": "",
-      "femaleMedal": "",
+      "femaleMedal": "01 रजत",
       "heading": "",
       "description": "",
       "buttonHeading": "",
@@ -1532,6 +1532,13 @@
     }
   ],
   "noticescirculars": [
+    {
+      "id": 18,
+      "name": "मेडल लाओ नौकरी पाओ की फाइनल मेरिट सूची",
+      "date": "",
+      "expiryDate": "",
+      "url": "img/notices/Final_List_02_11_2023.pdf"
+    },
     {
       "id": 17,
       "name": "सेपक टाकरा- मैच शेड्यूल",
