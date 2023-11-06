@@ -793,6 +793,47 @@
   ],
   "highlight": [
     {
+      "key": "T23",
+      "eventName": "Fourth asian para games",
+      "description": "05/11/2023",
+      "expiryDate": "",
+      "name": "High jump",
+      "corrigendum": "",
+      "ImageUrl": "img/highjump_gold_medlist_shailesh_kumar.jpeg",
+      "url": "img/highjump_gold_medlist_shailesh_kumar.jpeg"
+    },
+    {
+      "key": "T22",
+      "eventName": "Assistant coaches Position",
+      "description": "03/11/2023",
+      "expiryDate": "",
+      "name": "Assistant coach",
+      "corrigendum": "",
+      "ImageUrl": "img/assistant-coach-hiring-in-bssa.jpeg",
+      "url": "img/assistant-coach-hiring-in-bssa.jpeg"
+    },
+    {
+      "key": "T21",
+      "eventName": "Head coach position",
+      "description": "03/11/2023",
+      "expiryDate": "",
+      "name": "Head coach",
+      "corrigendum": "",
+      "ImageUrl": "img/head-coach-hiring-in-bssa.jpeg",
+      "url": "img/head-coach-hiring-in-bssa.jpeg"
+    },
+    {
+      "key": "T20",
+      "eventName": "Manager hiring",
+      "description": "03/11/2023",
+      "expiryDate": "",
+      "name": "High performance manager",
+      "corrigendum": "",
+      "ImageUrl": "img/manager-hiring-in-bssa.jpeg",
+      "url": "img/manager-hiring-in-bssa.jpeg"
+    },
+    
+    {
       "key": "T19",
       "eventName": "37th National games",
       "description": "25/10/2023",
