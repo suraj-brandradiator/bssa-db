@@ -809,8 +809,8 @@
       "expiryDate": "",
       "name": "Assistant coach",
       "corrigendum": "",
-      "ImageUrl": "img/assistant-coach-hiring-in-bssa.jpeg",
-      "url": "img/assistant-coach-hiring-in-bssa.jpeg"
+      "ImageUrl": "img/Assistant_Coach.jpeg",
+      "url": "img/Assistant_Coach.jpeg"
     },
     {
       "key": "T21",
@@ -819,8 +819,8 @@
       "expiryDate": "",
       "name": "Head coach",
       "corrigendum": "",
-      "ImageUrl": "img/head-coach-hiring-in-bssa.jpeg",
-      "url": "img/head-coach-hiring-in-bssa.jpeg"
+      "ImageUrl": "img/HeadCoach.jpeg",
+      "url": "img/HeadCoach.jpeg"
     },
     {
       "key": "T20",
@@ -829,10 +829,10 @@
       "expiryDate": "",
       "name": "High performance manager",
       "corrigendum": "",
-      "ImageUrl": "img/manager-hiring-in-bssa.jpeg",
-      "url": "img/manager-hiring-in-bssa.jpeg"
+      "ImageUrl": "img/High_PerformanceManager.jpeg",
+      "url": "img/High_PerformanceManager.jpeg"
     },
-    
+
     {
       "key": "T19",
       "eventName": "37th National games",
