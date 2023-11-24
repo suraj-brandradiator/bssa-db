@@ -793,7 +793,187 @@
   ],
   "highlight": [
     {
-      "key": "T25",
+      "key": "T43",
+      "eventName": "Shooting",
+      "description": "05/11/2023",
+      "expiryDate": "",
+      "name": "High jump",
+      "corrigendum": "",
+      "ImageUrl": "img/Nutritionist.jpeg",
+      "url": "img/Nutritionist.jpeg"
+    },
+    {
+      "key": "T43",
+      "eventName": "Shooting",
+      "description": "05/11/2023",
+      "expiryDate": "",
+      "name": "High jump",
+      "corrigendum": "",
+      "ImageUrl": "img/SwetaSahi.jpeg",
+      "url": "img/SwetaSahi.jpeg"
+    },
+    {
+      "key": "T42",
+      "eventName": "Hiring",
+      "description": "05/11/2023",
+      "expiryDate": "",
+      "name": "High jump",
+      "corrigendum": "",
+      "ImageUrl": "img/young_Perfessional.jpeg",
+      "url": "img/young_Perfessional.jpeg"
+    },
+    {
+      "key": "T41",
+      "eventName": "Shooting",
+      "description": "05/11/2023",
+      "expiryDate": "",
+      "name": "High jump",
+      "corrigendum": "",
+      "ImageUrl": "img/StrengthandConditioningExpert.jpeg",
+      "url": "img/StrengthandConditioningExpert.jpeg"
+    },
+    {
+      "key": "T40",
+      "eventName": "Shooting",
+      "description": "05/11/2023",
+      "expiryDate": "",
+      "name": "High jump",
+      "corrigendum": "",
+      "ImageUrl": "img/HiringPsychologist.jpeg",
+      "url": "img/HiringPsychologist.jpeg"
+    },
+    {
+      "key": "T39",
+      "eventName": "Shooting",
+      "description": "05/11/2023",
+      "expiryDate": "",
+      "name": "High jump",
+      "corrigendum": "",
+      "ImageUrl": "img/Hiring_Physiotherapist.jpeg",
+      "url": "img/Hiring_Physiotherapist.jpeg"
+    },
+    {
+      "key": "T38",
+      "eventName": "Shooting",
+      "description": "05/11/2023",
+      "expiryDate": "",
+      "name": "High jump",
+      "corrigendum": "",
+      "ImageUrl": "img/Hiring_Masseur.jpeg",
+      "url": "img/Hiring_Masseur.jpeg"
+    },
+    {
+      "key": "T37",
+      "eventName": "Shooting",
+      "description": "05/11/2023",
+      "expiryDate": "",
+      "name": "High jump",
+      "corrigendum": "",
+      "ImageUrl": "img/ShootingPractice.jpeg",
+      "url": "img/ShootingPractice.jpeg"
+    },
+    {
+      "key": "T36",
+      "eventName": "Thanks",
+      "description": "05/11/2023",
+      "expiryDate": "",
+      "name": "High jump",
+      "corrigendum": "",
+      "ImageUrl": "img/Thanks.jpeg",
+      "url": "img/Thanks.jpeg"
+    },
+    {
+      "key": "T35",
+      "eventName": "38th national games",
+      "description": "05/11/2023",
+      "expiryDate": "",
+      "name": "High jump",
+      "corrigendum": "",
+      "ImageUrl": "img/sunnyRaj.jpeg",
+      "url": "img/sunnyRaj.jpeg"
+    },
+    {
+      "key": "T34",
+      "eventName": "38th national games",
+      "description": "05/11/2023",
+      "expiryDate": "",
+      "name": "High jump",
+      "corrigendum": "",
+      "ImageUrl": "img/RohitRaj.jpeg",
+      "url": "img/RohitRaj.jpeg"
+    },
+    {
+      "key": "T33",
+      "eventName": "22nd asian master atheletics championship ",
+      "description": "05/11/2023",
+      "expiryDate": "",
+      "name": "High jump",
+      "corrigendum": "",
+      "ImageUrl": "img/padamGiriVilochan.jpeg",
+      "url": "img/padamGiriVilochan.jpeg"
+    },
+    {
+      "key": "T32",
+      "eventName": "38th national games",
+      "description": "05/11/2023",
+      "expiryDate": "",
+      "name": "High jump",
+      "corrigendum": "",
+      "ImageUrl": "img/md_kaadir.jpeg",
+      "url": "img/md_kaadir.jpeg"
+    },
+    {
+      "key": "T31",
+      "eventName": "37th National games",
+      "description": "05/11/2023",
+      "expiryDate": "",
+      "name": "High jump",
+      "corrigendum": "",
+      "ImageUrl": "img/arrow_marshalart_team.jpeg",
+      "url": "img/arrow_marshalart_team.jpeg"
+    },
+    {
+      "key": "T30",
+      "eventName": "38th national games",
+      "description": "05/11/2023",
+      "expiryDate": "",
+      "name": "High jump",
+      "corrigendum": "",
+      "ImageUrl": "img/piyushRaj.jpeg",
+      "url": "img/piyushRaj.jpeg"
+    },
+    {
+      "key": "T29",
+      "eventName": "38th national games",
+      "description": "05/11/2023",
+      "expiryDate": "",
+      "name": "High jump",
+      "corrigendum": "",
+      "ImageUrl": "img/nisha_kumari.jpeg",
+      "url": "img/nisha_kumari.jpeg"
+    },
+    {
+      "key": "T28",
+      "eventName": "38th national games",
+      "description": "05/11/2023",
+      "expiryDate": "",
+      "name": "High jump",
+      "corrigendum": "",
+      "ImageUrl": "img/kisu_singh.jpeg",
+      "url": "img/kisu_singh.jpeg"
+    },
+    {
+      "key": "T27",
+      "eventName": "38th national games",
+      "description": "05/11/2023",
+      "expiryDate": "",
+      "name": "High jump",
+      "corrigendum": "",
+      "ImageUrl": "img/38th_nationalatheletics.jpeg",
+      "url": "img/38th_nationalatheletics.jpeg"
+    },
+    {
+      "key": "T26",
       "eventName": "Fourth asian para games",
       "description": "05/11/2023",
       "expiryDate": "",
@@ -801,6 +981,16 @@
       "corrigendum": "",
       "ImageUrl": "img/Suboli.jpeg",
       "url": "img/Suboli.jpeg"
+    },
+    {
+      "key": "T25",
+      "eventName": "Fourth asian para games",
+      "description": "05/11/2023",
+      "expiryDate": "",
+      "name": "High jump",
+      "corrigendum": "",
+      "ImageUrl": "img/DurgaSingh.jpeg",
+      "url": "img/DurgaSingh.jpeg"
     },
     {
       "key": "T24",
@@ -1801,6 +1991,72 @@
       "date": "",
       "expiryDate": "",
       "url": "img/national_games_37_schedule.pdf"
+    }
+  ]
+  ,
+  "careerandopportunity":[
+    {
+      "id": 9,
+      "name": " न्यूट्रीशनिस्ट की नियुक्ति",
+      "date": "",
+      "expiryDate": "25 नवंबर 2023",
+      "url": "img/Nutritionist.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "खेल प्रबंधकों की नियुक्ति",
+      "date": "",
+      "expiryDate": "25 नवंबर 2023",
+      "url": "img/young_Perfessional.jpeg"
+    },
+    {
+      "id": 7,
+      "name": ".स्ट्रेंथ एंड कंडीशनिंग विशेषज्ञों की नियुक्ति",
+      "date": "",
+      "expiryDate": "25 नवंबर 2023",
+      "url": "img/StrengthandConditioningExpert.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "साइकोलॉजिस्ट की नियुक्ति ",
+      "date": "",
+      "expiryDate": "25 नवंबर 2023",
+      "url": "img/HiringPsychologist.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "फिजियोथैरेपिस्ट की नियुक्ति ",
+      "date": "",
+      "expiryDate": "25 नवंबर 2023",
+      "url": "img/Hiring_Physiotherapist.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "नियुक्ति ( masseur )",
+      "date": "",
+      "expiryDate": "25 नवंबर 2023",
+      "url": "img/Hiring_Masseur.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "सहायक प्रशिक्षकों की नियुक्ति",
+      "date": "",
+      "expiryDate": "25 नवंबर 2023",
+      "url": "img/Assistant_Coach.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "मुख्य प्रशिक्षक की नियुक्ति",
+      "date": "",
+      "expiryDate": "25 नवंबर 2023",
+      "url": "img/HeadCoach.jpeg"
+    },
+    {
+      "id": 1,
+      "name": ".प्रबंधक की नियुक्ति ",
+      "date": "",
+      "expiryDate": "25 नवंबर 2023",
+      "url": "img/High_PerformanceManager.jpeg"
     }
   ]
 }
