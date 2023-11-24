@@ -777,7 +777,7 @@
       "eventName": "tenders",
       "date": "23/06/2023",
       "expiryDate": "23/06/2025",
-      "name": "Corrigendum :(Pre- bid- quarries) RFP for design, development, testing, commissioning, integration and maintenance of website at Bihar State Sports Authority (BSSA) for a period of 2 years",
+      "name": "Corrigendum :(Pre Bid Queries) RFP for design, development, testing, commissioning, integration and maintenance of website at Bihar State Sports Authority (BSSA) for a period of 2 years",
       "corrigendum": "",
       "url": "img/tenders/TENDER.pdf"
     },
@@ -792,6 +792,36 @@
     }
   ],
   "highlight": [
+    {
+      "key": "T46",
+      "eventName": "Mall Yudhh Event 2023",
+      "description": "Mall Yudhh Event 2023",
+      "expiryDate": "15/12/2023",
+      "name": "Mall Yudhh Event 2023",
+      "corrigendum": "",
+      "ImageUrl": "img/mall_yudhh_event.jpeg",
+      "url": "img/mall_yudhh_event.jpeg"
+    },
+    {
+      "key": "T45",
+      "eventName": "National Penchak Silat Championship 2023",
+      "description": "National Penchak Silat Championship 2023",
+      "expiryDate": "26/11/2023",
+      "name": "National Penchak Silat Championship 2023",
+      "corrigendum": "",
+      "ImageUrl": "img/national_penchak_silat_championship.jpeg",
+      "url": "img/national_penchak_silat_championship.jpeg"
+    },
+    {
+      "key": "T44",
+      "eventName": "38th national games",
+      "description": "Khel samman samaroh",
+      "expiryDate": "23/11/2023",
+      "name": "Reward distribution for Khel samman samaroh",
+      "corrigendum": "",
+      "ImageUrl": "img/thirtyEight_khelsamman_samaroh.jpeg",
+      "url": "img/thirtyEight_khelsamman_samaroh.jpeg"
+    },
     {
       "key": "T43",
       "eventName": "Shooting",
@@ -1997,7 +2027,7 @@
   "careerandopportunity":[
     {
       "id": 9,
-      "name": " न्यूट्रीशनिस्ट की नियुक्ति",
+      "name": "न्यूट्रीशनिस्ट की नियुक्ति",
       "date": "",
       "expiryDate": "25 नवंबर 2023",
       "url": "img/Nutritionist.jpeg"
@@ -2011,7 +2041,7 @@
     },
     {
       "id": 7,
-      "name": ".स्ट्रेंथ एंड कंडीशनिंग विशेषज्ञों की नियुक्ति",
+      "name": "स्ट्रेंथ एंड कंडीशनिंग विशेषज्ञों की नियुक्ति",
       "date": "",
       "expiryDate": "25 नवंबर 2023",
       "url": "img/StrengthandConditioningExpert.jpeg"
@@ -2053,7 +2083,7 @@
     },
     {
       "id": 1,
-      "name": ".प्रबंधक की नियुक्ति ",
+      "name": "प्रबंधक की नियुक्ति ",
       "date": "",
       "expiryDate": "25 नवंबर 2023",
       "url": "img/High_PerformanceManager.jpeg"
