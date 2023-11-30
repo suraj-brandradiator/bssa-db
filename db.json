@@ -746,6 +746,15 @@
   ],
   "tenders": [
     {
+      "key": "T6",
+      "eventName": "tenders",
+      "date": "06/12/2023",
+      "expiryDate": "15/12/2023",
+      "name": "ESTABLISHMENT OF PROJECT MONITORING UNIT FOR PROMOTING E-SPORTS IN THE STATE OF BIHAR FOR A PERIOD OF 03 YEARS",
+      "corrigendum": "",
+      "url": "img/tenders/ESTABLISHMENTOFPROJECTMONITORING.pdf"
+    },
+    {
       "key": "T1",
       "eventName": "tenders",
       "date": "21/08/2023",
